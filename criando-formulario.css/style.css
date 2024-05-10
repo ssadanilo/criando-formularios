@@ -1,0 +1,20 @@
+.h1{ /* Ctrl + Espaço e ele já mostra todas as opções de estilização*/
+  color: rgb(10, 145, 70);
+  font-size: 40px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.h2{ /* Ctrl + Espaço e ele já mostra todas as opções de estilização*/
+  color: rgb(252, 248, 6);
+  font-size: 36px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.form{ /* Ctrl + Espaço e ele já mostra todas as opções de estilização*/
+  color: rgb(72, 6, 253);
+  font-size: 20px;
+  text-align: left;
+  font-weight: bold;
+}
